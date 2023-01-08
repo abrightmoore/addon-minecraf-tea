@@ -1,0 +1,21 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "TWF MinecrafTea",
+		"description": "TWF MinecrafTea Resource Pack",
+		"uuid": "8ac15100-ec1d-42ce-a4fb-43e0e73c1663",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["TheWorldFoundry"]
+	},
+	"modules": [
+		{
+			"description": "TWF MinecrafTea",
+			"type": "resources",
+			"uuid": "ace37266-e7d0-4c59-821d-58bb54cb963a",
+			"version": [1, 0, 0]
+		}
+	]
+}

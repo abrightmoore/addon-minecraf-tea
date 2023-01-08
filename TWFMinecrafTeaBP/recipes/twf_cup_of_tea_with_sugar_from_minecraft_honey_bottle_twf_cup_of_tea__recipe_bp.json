@@ -1,0 +1,25 @@
+{
+    "format_version": "1.13.0", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf_cup_of_tea_with_sugar_from_minecraft_honey_bottle_twf_cup_of_tea_"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "minecraft:honey_bottle"
+            }, 
+            {
+                "count": 1, 
+                "item": "twf:cup_of_tea"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:cup_of_tea_with_sugar"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

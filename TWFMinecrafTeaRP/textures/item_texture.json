@@ -1,0 +1,15 @@
+{
+    "resource_pack_name": "TWF MinecrafTea", 
+    "texture_data": {
+        "twf_bucket_of_hot_water_tex": {"textures": "textures/items/twf_bucket_of_hot_water_tex"},
+        "twf_cup_of_tea_tex": {"textures": "textures/items/twf_cup_of_tea_tex"},
+        "twf_tea_bag_tex": {"textures": "textures/items/twf_tea_bag_tex"},
+        "twf_tea_leaves_tex": {"textures": "textures/items/twf_tea_leaves_tex"},
+        "twf_cup_of_tea_with_milk_tex": {"textures": "textures/items/twf_cup_of_tea_with_milk_tex"},
+        "twf_cup_of_tea_with_sugar_tex": {"textures": "textures/items/twf_cup_of_tea_with_sugar_tex"},
+        "twf_cup_of_tea_with_milk_and_sugar_tex": {"textures": "textures/items/twf_cup_of_tea_with_milk_and_sugar_tex"},
+        "twf_box_of_tea_bags_tex": {"textures": "textures/items/twf_box_of_tea_bags_tex"}
+
+    }, 
+    "texture_name": "atlas.items"
+}

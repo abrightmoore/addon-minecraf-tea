@@ -1,0 +1,25 @@
+{
+    "format_version": "1.13.0", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf_cup_of_tea_from_twf_tea_bag_twf_bucket_of_hot_water_"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:tea_bag"
+            }, 
+            {
+                "count": 1, 
+                "item": "twf:bucket_of_hot_water"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:cup_of_tea"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

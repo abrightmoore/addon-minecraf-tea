@@ -1,0 +1,27 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "TWF MinecrafTea",
+		"description": "TWF MinecrafTea Behavior Pack",
+		"uuid": "c1f76e92-5b43-43a3-b5db-08ee3b4161cb",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 19, 50]
+	},
+	"metadata": {
+		"authors": ["TheWorldFoundry"]
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "d2d3e764-cb61-4b9b-b565-eebee561a882",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "8ac15100-ec1d-42ce-a4fb-43e0e73c1663",
+			"version": [1, 0, 0]
+		}
+	]
+}

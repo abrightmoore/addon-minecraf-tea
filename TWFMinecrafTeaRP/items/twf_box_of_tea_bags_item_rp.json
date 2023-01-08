@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10", 
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "twf_box_of_tea_bags_tex", 
+            "minecraft:render_offsets": "tools"
+        }, 
+        "description": {
+            "category": "Nature", 
+            "identifier": "twf:box_of_tea_bags"
+        }
+    }
+}

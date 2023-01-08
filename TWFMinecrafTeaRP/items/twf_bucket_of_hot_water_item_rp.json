@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10", 
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "twf_bucket_of_hot_water_tex", 
+            "minecraft:render_offsets": "tools"
+        }, 
+        "description": {
+            "category": "Nature", 
+            "identifier": "twf:bucket_of_hot_water"
+        }
+    }
+}

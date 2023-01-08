@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10", 
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "twf_tea_leaves_tex", 
+            "minecraft:render_offsets": "tools"
+        }, 
+        "description": {
+            "category": "Nature", 
+            "identifier": "twf:tea_leaves"
+        }
+    }
+}

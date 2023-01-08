@@ -1,0 +1,19 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "twf_tea_leaves_from_red_flower"
+        }, 
+        "input": {
+
+            "item": "minecraft:red_flower"
+        }, 
+        "output": "twf:tea_leaves", 
+        "tags": [
+            "furnace", 
+            "smoker", 
+            "campfire", 
+            "soul_campfire"
+        ]
+    }
+}

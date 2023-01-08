@@ -1,0 +1,21 @@
+{
+    "format_version": "1.13.0", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf_box_of_tea_bags_from_twf_tea_bag_"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:tea_bag"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:box_of_tea_bags"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

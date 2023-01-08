@@ -1,0 +1,25 @@
+{
+    "format_version": "1.13.0", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf_cup_of_tea_with_milk_and_sugar_from_twf_cup_of_tea_with_sugar_minecraft_milk_"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:cup_of_tea_with_sugar"
+            }, 
+            {
+                "count": 1, 
+                "item": "minecraft:milk_bucket"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:cup_of_tea_with_milk_and_sugar"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
