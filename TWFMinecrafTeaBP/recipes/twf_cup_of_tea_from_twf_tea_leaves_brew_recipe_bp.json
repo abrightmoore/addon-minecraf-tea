@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:recipe_brewing_mix": {
+        "description": {
+            "identifier": "twf_cup_of_tea_from_twf_tea_leaves_brew_"
+        },
+        "input": "minecraft:potion_type:water",
+        "reagent": "twf:tea_leaves",
+        "output": "twf:cup_of_tea",
+        "tags": [
+            "brewing_stand"
+        ]
+    }
+}

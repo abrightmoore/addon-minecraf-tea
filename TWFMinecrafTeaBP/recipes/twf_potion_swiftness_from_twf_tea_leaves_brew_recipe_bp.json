@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:recipe_brewing_mix": {
+        "description": {
+            "identifier": "twf_potion_swiftness_from_twf_tea_leaves_brew_"
+        },
+        "input": "minecraft:potion_type:mundane",
+        "reagent": "twf:tea_leaves",
+        "output": "minecraft:potion_type:strong_swiftness",
+        "tags": [
+            "brewing_stand"
+        ]
+    }
+}
