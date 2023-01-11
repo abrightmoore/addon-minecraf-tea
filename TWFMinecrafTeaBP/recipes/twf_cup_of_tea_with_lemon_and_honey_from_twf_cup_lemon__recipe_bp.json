@@ -1,0 +1,25 @@
+{
+    "format_version": "1.13.0", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf_cup_of_tea_with_lemon_and_honey_from_twf_cup_lemon_"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "minecraft:honey_bottle"
+            }, 
+            {
+                "count": 1, 
+                "item": "twf:cup_of_tea_with_lemon"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:cup_of_tea_with_lemon_and_honey"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

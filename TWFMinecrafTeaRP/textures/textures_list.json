@@ -5,6 +5,10 @@
     "textures/items/twf_cup_of_tea_with_milk_tex",
     "textures/items/twf_cup_of_tea_with_milk_and_sugar_tex",
     "textures/items/twf_tea_bag_tex",
-    "textures/items/twf_tea_leaves_tex"
+    "textures/items/twf_tea_leaves_tex",
+    "textures/items/twf_box_of_tea_bags_tex",
+    "textures/items/twf_cup_of_tea_with_sugar_tex",
+    "textures/items/twf_lemon_cut_tex",
+    "textures/items/twf_lemon_tex"
     
 ]

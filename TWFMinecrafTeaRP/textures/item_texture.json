@@ -8,7 +8,9 @@
         "twf_cup_of_tea_with_milk_tex": {"textures": "textures/items/twf_cup_of_tea_with_milk_tex"},
         "twf_cup_of_tea_with_sugar_tex": {"textures": "textures/items/twf_cup_of_tea_with_sugar_tex"},
         "twf_cup_of_tea_with_milk_and_sugar_tex": {"textures": "textures/items/twf_cup_of_tea_with_milk_and_sugar_tex"},
-        "twf_box_of_tea_bags_tex": {"textures": "textures/items/twf_box_of_tea_bags_tex"}
+        "twf_box_of_tea_bags_tex": {"textures": "textures/items/twf_box_of_tea_bags_tex"},
+        "twf_lemon_tex": {"textures": "textures/items/twf_lemon_tex"},
+        "twf_lemon_cut_tex": {"textures": "textures/items/twf_lemon_cut_tex"}
 
     }, 
     "texture_name": "atlas.items"

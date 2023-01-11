@@ -1,8 +1,12 @@
 item.twf:tea_leaves.name=Tea Leaves
 item.twf:tea_bag.name=Bag of Tea
+item.twf:lemon.name=Lemon
+item.twf:lemon_cut.name=Lemon Half
 item.twf:box_of_tea_bags.name=Box of Bags of Tea
 item.twf:bucket_of_hot_water.name=Bucket of Hot Water
 item.twf:cup_of_tea.name=Cup of Tea
+item.twf:cup_of_tea_with_lemon.name=Cup of Tea with Lemon
+item.twf:cup_of_tea_with_lemon_and_honey.name=Cup of Tea with Lemon and Honey
 item.twf:cup_of_tea_with_milk.name=Cup of Tea with Milk
 item.twf:cup_of_tea_with_sugar.name=Cup of Sweet Tea
 item.twf:cup_of_tea_with_milk_and_sugar.name=Cup of Sweet Tea with Milk
